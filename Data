@@ -1,4 +1,5 @@
-*Chest X-Ray Images (Pneumonia)*
+# Chest X-Ray Images (Pneumonia)
 
 Link: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
+Data consists of 5,863 images, and 2 categories; Normal/ Pneumonia
